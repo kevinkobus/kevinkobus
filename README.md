@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kevinkobus
-- 🌱 I’m currently learning the MERN stack @ V School
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <!---
 kevinkobus/kevinkobus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
